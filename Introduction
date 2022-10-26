@@ -1,0 +1,11 @@
+Introduction
+A cohort is a group of products/users that share a common characteristic.
+Retention is a measure of well your platform/business engage with clients/users.
+REtention is away to understand the performance of your marketing retention.
+Retention metric is often analized by a group of customers that share some common features, hence the name Cohor Retention Analysis.
+The most common way to visualize retention is a two dimensional heat map. The heat map cells are colored based on their value.
+The best way to see if we asre improving our services/products in the right direction is to look at the retention over time of different cohorts of clients/users.
+1) Define cohort: Group your cohort by the time they made their first purchase.
+2) Calculate cohort size: Calculate how many users are in each cohort.
+3) Calculate if X user makes purchaces in Y month.
+4) Aggregate them: How many users in cohort X made purchases in month Y. Use  count distinct to calcilate the number of users in each group.
